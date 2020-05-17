@@ -3,7 +3,7 @@
 	$request = '{
 					"name":"generateToken",
 					"param":{
-						"email":"dsahani@gmail.com",
+						"email":"admin@gmail.com",
 						"pass":"pass123"
 					}
 				}';
